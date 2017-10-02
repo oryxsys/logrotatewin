@@ -1,0 +1,9 @@
+"C:\Oryx\Log\*.log" {
+rotate 4
+weekly
+}
+
+"C:\Oryx\Data\*.csv" {
+rotate 4
+weekly
+}
